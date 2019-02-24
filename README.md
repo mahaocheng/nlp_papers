@@ -11,3 +11,4 @@
 - Reporting Score Distributions Makes a Difference: Performance Study of LSTM-networks for Sequence Tagging [[Paper](https://arxiv.org/pdf/1707.09861.pdf)] [[code_emnlp2017-bilstm-cnn-crf](https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf)]
 - Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme [[Paper](http://aclweb.org/anthology/P17-1113)] [[code_triplets-extraction](https://github.com/zsctju/triplets-extraction)]
 - Toward high-throughput phenotyping: Unbiased automated feature extraction and selection from knowledge sources [[Paper](https://academic.oup.com/jamia/article/22/5/993/929941)] [[code_phenotypr](https://github.com/borishejblum/phenotypr)]
+- Deep contextualized word representations [[Paper](http://www.aclweb.org/anthology/N18-1202)] [[code_allennlp](https://github.com/allenai/allennlp)]
