@@ -12,3 +12,10 @@
 - Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme [[Paper](http://aclweb.org/anthology/P17-1113)] [[code_triplets-extraction](https://github.com/zsctju/triplets-extraction)]
 - Toward high-throughput phenotyping: Unbiased automated feature extraction and selection from knowledge sources [[Paper](https://academic.oup.com/jamia/article/22/5/993/929941)] [[code_phenotypr](https://github.com/borishejblum/phenotypr)]
 - Deep contextualized word representations [[Paper](http://www.aclweb.org/anthology/N18-1202)] [[code_allennlp](https://github.com/allenai/allennlp)]
+
+#### Electronic Health Record (EHR) Analysis
+
+- Toward high-throughput phenotyping: Unbiased automated feature extraction and selection from knowledge sources [[Paper](https://academic.oup.com/jamia/article/22/5/993/929941)] [[code_phenotypr](https://github.com/borishejblum/phenotypr)]
+- A Neural Architecture for Automated ICD Coding [[Paper](http://aclweb.org/anthology/P18-1098)] 
+- Deep EHR: A Survey of Recent Advances in Deep Learning Techniques for Electronic Health Record (EHR) Analysis [[Paper](https://arxiv.org/pdf/1706.03446.pdf)]
+- Classifying relations in clinical narratives using segment graph convolutional and recurrent neural networks (Seg-GCRNs) [[Paper](https://academic.oup.com/jamia/article-abstract/26/3/262/5263777)]
