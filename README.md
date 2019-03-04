@@ -19,5 +19,5 @@
 - A Neural Architecture for Automated ICD Coding [[Paper](http://aclweb.org/anthology/P18-1098)] 
 - Deep EHR: A Survey of Recent Advances in Deep Learning Techniques for Electronic Health Record (EHR) Analysis [[Paper](https://arxiv.org/pdf/1706.03446.pdf)]
 - Classifying relations in clinical narratives using segment graph convolutional and recurrent neural networks (Seg-GCRNs) [[Paper](https://academic.oup.com/jamia/article-abstract/26/3/262/5263777)]
-- Evaluation and accurate diagnoses of pediatric diseases using artificial intelligence [[Paper](https://www.nature.com/articles/s41591-018-0335-9)])]
+- Evaluation and accurate diagnoses of pediatric diseases using artificial intelligence [[Paper](https://www.nature.com/articles/s41591-018-0335-9)]
 - SGM: Sequence Generation Model for Multi-Label Classification [[Paper](http://aclweb.org/anthology/C18-1330)] [[code_SGM](https://github.com/lancopku/SGM)] 
