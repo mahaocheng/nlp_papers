@@ -22,3 +22,4 @@
 - Evaluation and accurate diagnoses of pediatric diseases using artificial intelligence [[Paper](https://www.nature.com/articles/s41591-018-0335-9)]
 - SGM: Sequence Generation Model for Multi-Label Classification [[Paper](http://aclweb.org/anthology/C18-1330)] [[code_SGM](https://github.com/lancopku/SGM)] 
 - Adversarial Transfer Learning for Chinese Named Entity Recognition with Self-Attention Mechanism [[Paper](http://aclweb.org/anthology/D18-1017)] [[code_AT4ChineseNER](https://github.com/CPF-NLPR/AT4ChineseNER)]
+- Surrogate-assisted feature extraction for high-throughput phenotyping [[Paper](https://academic.oup.com/jamia/article/24/e1/e143/2631516)] 
