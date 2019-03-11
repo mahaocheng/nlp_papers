@@ -1,6 +1,6 @@
 # nlp_papers
 
-#### 2019-01+02
+#### 2019.01-02
 
 - A Hierarchical Framework for Relation Extraction with Reinforcement Learning [[Paper](https://export.arxiv.org/pdf/1811.03925)] [[code_HRL-RE](https://github.com/truthless11/HRL-RE)]
 - Contextual String Embeddings for Sequence Labeling [[Paper](http://alanakbik.github.io/papers/coling2018.pdf)] [[code_flair](https://github.com/zalandoresearch/flair)]
@@ -13,7 +13,7 @@
 - Toward high-throughput phenotyping: Unbiased automated feature extraction and selection from knowledge sources [[Paper](https://academic.oup.com/jamia/article/22/5/993/929941)] [[code_phenotypr](https://github.com/borishejblum/phenotypr)]
 - Deep contextualized word representations [[Paper](http://www.aclweb.org/anthology/N18-1202)] [[code_allennlp](https://github.com/allenai/allennlp)]
 
-#### Electronic Health Record (EHR) Analysis
+#### 2019.03
 
 - Toward high-throughput phenotyping: Unbiased automated feature extraction and selection from knowledge sources [[Paper](https://academic.oup.com/jamia/article/22/5/993/929941)] [[code_phenotypr](https://github.com/borishejblum/phenotypr)]
 - A Neural Architecture for Automated ICD Coding [[Paper](http://aclweb.org/anthology/P18-1098)] 
@@ -23,3 +23,4 @@
 - SGM: Sequence Generation Model for Multi-Label Classification [[Paper](http://aclweb.org/anthology/C18-1330)] [[code_SGM](https://github.com/lancopku/SGM)] 
 - Adversarial Transfer Learning for Chinese Named Entity Recognition with Self-Attention Mechanism [[Paper](http://aclweb.org/anthology/D18-1017)] [[code_AT4ChineseNER](https://github.com/CPF-NLPR/AT4ChineseNER)]
 - Surrogate-assisted feature extraction for high-throughput phenotyping [[Paper](https://academic.oup.com/jamia/article/24/e1/e143/2631516)] 
+- Glyce: Glyph-vectors for Chinese Character Representations [[Paper](https://arxiv.org/pdf/1901.10125v1.pdf)]
