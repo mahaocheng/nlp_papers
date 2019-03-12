@@ -25,3 +25,4 @@
 - Surrogate-assisted feature extraction for high-throughput phenotyping [[Paper](https://academic.oup.com/jamia/article/24/e1/e143/2631516)] 
 - Glyce: Glyph-vectors for Chinese Character Representations [[Paper](https://arxiv.org/pdf/1901.10125v1.pdf)]
 - Character-level Chinese-English Translation through ASCII Encoding [[Paper](http://www.statmt.org/wmt18/pdf/WMT002.pdf)] [[code_wmt-en2wubi](https://github.com/duguyue100/wmt-en2wubi/tree/master/en2wubi)]
+- Chinese Language Processing Based on Stroke Representation and Multidimensional Representation [[Paper](https://ieeexplore.ieee.org/document/8421226?arnumber=8421226&tag=1)]
