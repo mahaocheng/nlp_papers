@@ -30,3 +30,4 @@
 - BioBERT: a pre-trained biomedical language representation model for biomedical text mining [[Paper](https://arxiv.org/abs/1901.08746)] [[code_biobert](https://github.com/dmis-lab/biobert)]
 - R-Trans: RNN Transformer Network for Chinese Machine Reading Comprehension [[Paper](https://ieeexplore.ieee.org/abstract/document/8651505)]
 - TRANSFORMER-XL: ATTENTIVE LANGUAGE MODELS BEYOND A FIXED-LENGTH CONTEXT [[Paper](https://arxiv.org/abs/1901.02860)] [[code_transformer-xl](https://github.com/kimiyoung/transformer-xl)]
+- Character-Level Language Modeling with Deeper Self-Attention [[Paper](https://arxiv.org/abs/1808.04444)] [code_Character-Level-Language-Modeling-with-Deeper-Self-Attention-pytorch](https://github.com/nadavbh12/Character-Level-Language-Modeling-with-Deeper-Self-Attention-pytorch)]
