@@ -27,3 +27,4 @@
 - Character-level Chinese-English Translation through ASCII Encoding [[Paper](http://www.statmt.org/wmt18/pdf/WMT002.pdf)] [[code_wmt-en2wubi](https://github.com/duguyue100/wmt-en2wubi/tree/master/en2wubi)]
 - Chinese Language Processing Based on Stroke Representation and Multidimensional Representation [[Paper](https://ieeexplore.ieee.org/document/8421226?arnumber=8421226&tag=1)]
 - Automatic ICD code assignment of Chinese clinical notes based on multilayer attention BiRNN [[Paper](https://www.sciencedirect.com/science/article/pii/S1532046419300322)]
+- BioBERT: a pre-trained biomedical language representation model for biomedical text mining [[Paper](https://arxiv.org/abs/1901.08746)] [[code_biobert](https://github.com/dmis-lab/biobert)]
