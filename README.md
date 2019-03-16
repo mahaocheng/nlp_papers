@@ -28,3 +28,5 @@
 - Chinese Language Processing Based on Stroke Representation and Multidimensional Representation [[Paper](https://ieeexplore.ieee.org/document/8421226?arnumber=8421226&tag=1)]
 - Automatic ICD code assignment of Chinese clinical notes based on multilayer attention BiRNN [[Paper](https://www.sciencedirect.com/science/article/pii/S1532046419300322)]
 - BioBERT: a pre-trained biomedical language representation model for biomedical text mining [[Paper](https://arxiv.org/abs/1901.08746)] [[code_biobert](https://github.com/dmis-lab/biobert)]
+- R-Trans: RNN Transformer Network for Chinese Machine Reading Comprehension [[Paper](https://ieeexplore.ieee.org/abstract/document/8651505)]
+- TRANSFORMER-XL: ATTENTIVE LANGUAGE MODELS BEYOND A FIXED-LENGTH CONTEXT [[Paper](https://arxiv.org/abs/1901.02860)] [[code_transformer-xl](https://github.com/kimiyoung/transformer-xl)]
