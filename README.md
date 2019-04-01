@@ -32,3 +32,4 @@
 - TRANSFORMER-XL: ATTENTIVE LANGUAGE MODELS BEYOND A FIXED-LENGTH CONTEXT [[Paper](https://arxiv.org/abs/1901.02860)] [[code_transformer-xl](https://github.com/kimiyoung/transformer-xl)]
 - Character-Level Language Modeling with Deeper Self-Attention [[Paper](https://arxiv.org/abs/1808.04444)] [[code_Character-Level-Language-Modeling-with-Deeper-Self-Attention-pytorch](https://github.com/nadavbh12/Character-Level-Language-Modeling-with-Deeper-Self-Attention-pytorch)]
 - Learning Character-level Compositionality with Visual Features [[Paper](https://arxiv.org/abs/1704.04859)] [[code_Learning-Character-Level](https://github.com/frederick0329/Learning-character-level)]
+- Learning Character-level Compositionality with Visual Features [[Paper](https://www.cs.uic.edu/~elena/pubs/tran-aaai19.pdf)]
