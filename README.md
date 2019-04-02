@@ -38,3 +38,4 @@
 
 - Chinese Medical Question Answer Matching Using End-to-End Character-Level Multi-Scale CNNs [[Paper](https://www.researchgate.net/publication/319092307_Chinese_Medical_Question_Answer_Matching_Using_End-to-End_Character-Level_Multi-Scale_CNNs)]
 - Multi-scale attentive interaction networks for Chinese medical question answer selection [[Paper](https://ieeexplore.ieee.org/abstract/document/8548603)] 
+- GAMENet: Graph Augmented MEmory Networks for Recommending Medication Combination [[Paper](https://arxiv.org/abs/1809.01852)] [[code_GAMENet](https://github.com/sjy1203/GAMENet)]
