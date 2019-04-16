@@ -34,8 +34,9 @@
 - Learning Character-level Compositionality with Visual Features [[Paper](https://arxiv.org/abs/1704.04859)] [[code_Learning-Character-Level](https://github.com/frederick0329/Learning-character-level)]
 - Learning Triggers for Heterogeneous Treatment Effects [[Paper](https://www.cs.uic.edu/~elena/pubs/tran-aaai19.pdf)]
 
-#### 2019.04.02
+#### 2019.04
 
 - Chinese Medical Question Answer Matching Using End-to-End Character-Level Multi-Scale CNNs [[Paper](https://www.researchgate.net/publication/319092307_Chinese_Medical_Question_Answer_Matching_Using_End-to-End_Character-Level_Multi-Scale_CNNs)]
 - Multi-scale attentive interaction networks for Chinese medical question answer selection [[Paper](https://ieeexplore.ieee.org/abstract/document/8548603)] 
 - GAMENet: Graph Augmented MEmory Networks for Recommending Medication Combination [[Paper](https://arxiv.org/abs/1809.01852)] [[code_GAMENet](https://github.com/sjy1203/GAMENet)]
+- Automatic Extraction of Causal Relations from Text using Linguistically Informed Deep Neural Networks [[Paper](https://aclweb.org/anthology/W18-5035)]
