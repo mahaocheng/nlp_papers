@@ -40,3 +40,4 @@
 - Multi-scale attentive interaction networks for Chinese medical question answer selection [[Paper](https://ieeexplore.ieee.org/abstract/document/8548603)] 
 - GAMENet: Graph Augmented MEmory Networks for Recommending Medication Combination [[Paper](https://arxiv.org/abs/1809.01852)] [[code_GAMENet](https://github.com/sjy1203/GAMENet)]
 - Automatic Extraction of Causal Relations from Text using Linguistically Informed Deep Neural Networks [[Paper](https://aclweb.org/anthology/W18-5035)]
+- DeepCx: A transition-based approach for shallow semantic parsing with complex constructional triggers [[Paper](https://www.aclweb.org/anthology/D18-1196)] [[code_lstm-causality-tagger](https://github.com/duncanka/lstm-causality-tagger)]
