@@ -43,3 +43,9 @@
 - DeepCx: A transition-based approach for shallow semantic parsing with complex constructional triggers [[Paper](https://www.aclweb.org/anthology/D18-1196)] [[code_lstm-causality-tagger](https://github.com/duncanka/lstm-causality-tagger)]
 - Deep Patient Similarity Learning for Personalized Healthcare
 Qiuling [[Paper](https://www.researchgate.net/publication/325184600_Deep_Patient_Similarity_Learning_for_Personalized_Healthcare)] 
+
+#### 2019.05
+
+- HITSZ_CNER: A hybrid system for entity recognition from Chinese clinical text [[Paper](http://ceur-ws.org/Vol-1976/paper05.pdf)] 
+- Incorporating dictionaries into deep neural networks for the Chinese clinical named entity recognition [[Paper](https://www.sciencedirect.com/science/article/pii/S1532046419300516)] 
+- Unsupervised concept extraction from clinical text through semantic composition [[Paper](https://www.sciencedirect.com/science/article/pii/S1532046419300383)] [[code_conch](https://github.com/clips/conch)]
