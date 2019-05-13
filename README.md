@@ -49,3 +49,4 @@ Qiuling [[Paper](https://www.researchgate.net/publication/325184600_Deep_Patient
 - HITSZ_CNER: A hybrid system for entity recognition from Chinese clinical text [[Paper](http://ceur-ws.org/Vol-1976/paper05.pdf)] 
 - Incorporating dictionaries into deep neural networks for the Chinese clinical named entity recognition [[Paper](https://www.sciencedirect.com/science/article/pii/S1532046419300516)] 
 - Unsupervised concept extraction from clinical text through semantic composition [[Paper](https://www.sciencedirect.com/science/article/pii/S1532046419300383)] [[code_conch](https://github.com/clips/conch)]
+- End-to-End Knowledge-Routed Relational Dialogue System for Automatic Diagnosis [[Paper](https://arxiv.org/pdf/1901.10623.pdf)] [[code_Medical_DS](https://github.com/HCPLab-SYSU/Medical_DS)]
